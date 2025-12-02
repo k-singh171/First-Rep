@@ -24,6 +24,7 @@ public class gitLab {
         System.out.println(marking);
         String data = "SQL";
         System.out.println("Data-base: " + data);
+        System.out.println("New line for branch-3");
     }
 }
 
