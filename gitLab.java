@@ -15,6 +15,10 @@ public class gitLab {
         System.out.println();
         School obj1 = new School();
         obj1.sclName();
+        System.out.println();
+        Robot obj2 = new Robot();
+        obj2.walk();
+        obj2.cam();
     }
 }
 
@@ -26,5 +30,13 @@ class NamingDesk{
 class School{
     public void sclName(){
         System.out.println("Narayana Vidyalayam");
+    }
+}
+class Robot{
+    public void walk(){
+        System.out.println("Robot instructed to walk..");
+    }
+    public void cam(){
+        System.out.println("Robot instructed to record..");
     }
 }
