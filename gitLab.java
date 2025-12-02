@@ -23,6 +23,7 @@ public class gitLab {
         int marking = 20;
         System.out.println(marking);
         String data = "SQL";
+        System.out.println("Data-base: " + data);
     }
 }
 
