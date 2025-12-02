@@ -21,6 +21,8 @@ public class gitLab {
         obj2.cam();
         System.out.println();
         int marking = 20;
+        System.out.println(marking);
+        String data = "SQL";
     }
 }
 
