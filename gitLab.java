@@ -19,6 +19,8 @@ public class gitLab {
         Robot obj2 = new Robot();
         obj2.walk();
         obj2.cam();
+        System.out.println();
+        int marking = 20;
     }
 }
 
